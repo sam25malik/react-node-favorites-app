@@ -1,0 +1,111 @@
+[{
+  "name":"apple-1",
+  "price":"100",
+  "type":"apples"
+},
+{
+  "name":"apple-2",
+  "price":"200",
+  "type":"apples"
+},
+{
+  "name":"apple-3",
+  "price":"300",
+  "type":"apples"
+},
+{
+  "name":"apple-4",
+  "price":"400",
+  "type":"apples"
+},
+{
+  "name":"apple-5",
+  "price":"500",
+  "type":"apples"
+},
+{
+  "name":"apple-6",
+  "price":"600",
+  "type":"apples"
+},
+{
+  "name":"apple-7",
+  "price":"700",
+  "type":"apples"
+},
+{
+  "name":"banana-1",
+  "price":"100",
+  "type":"bananas"
+},
+{
+  "name":"banana-2",
+  "price":"200",
+  "type":"bananas"
+},
+{
+  "name":"banana-3",
+  "price":"300",
+  "type":"bananas"
+},
+{
+    "name":"banana-4",
+    "price":"400",
+    "type":"bananas"
+},
+{
+  "name":"banana-5",
+  "price":"500",
+  "type":"bananas"
+},
+{
+  "name":"pear-1",
+  "price":"100",
+  "type":"pears"
+},
+{
+  "name":"pear-2",
+  "price":"200",
+  "type":"pears"
+},
+{
+  "name":"pear-3",
+  "price":"300",
+  "type":"pears"
+},
+{
+  "name":"pear-4",
+  "price":"400",
+  "type":"pears"
+},
+{
+  "name":"pear-5",
+  "price":"500",
+  "type":"pears"
+},
+{
+  "name":"orange-1",
+  "price":"100",
+  "type":"oranges"
+},
+{
+  "name":"orange-2",
+  "price":"200",
+  "type":"oranges"
+},
+{
+  "name":"orange-3",
+  "price":"300",
+  "type":"oranges"
+},
+{
+  "name":"orange-4",
+  "price":"400",
+  "type":"oranges"
+},
+{
+  "name":"orange-5",
+  "price":"500",
+  "type":"oranges"
+}]
+
