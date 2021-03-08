@@ -2,9 +2,6 @@ var express = require('express');
 var router = express.Router();
 const async = require('async');
 const redis = require('redis');
-const fs = require('fs');
-let rawdata = fs.readFileSync('db/products.json');
-let products = JSON.parse(rawdata);
 const fetch = require('node-fetch');
 
 const PORT = process.env.PORT || 5000;
